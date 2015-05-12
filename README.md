@@ -1,4 +1,4 @@
-# A Hello REST OAuth2 Service with Spring Boot, Gradle, and Java
+# A Bookmarks REST OAuth2 Service with Spring Boot, Gradle, and Java
 
 # Credits
 
