@@ -1,4 +1,4 @@
-# A Hello rest service with Spring Boot, Gradle, and Java
+# A Hello REST OAuth2 Service with Spring Boot, Gradle, and Java
 
 # Credits
 
